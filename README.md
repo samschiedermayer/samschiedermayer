@@ -2,4 +2,4 @@
 - 👀 I’m interested in computer architecture, and power efficient computing platforms
 - 🌱 I’m currently learning SystemVerilog and hardware design techniques
 - 💞️ I’m looking to collaborate on open source hardware projects
-- 📫 How to reach me: samschied13@gmail.com
+- 📫 How to reach me: samschied13@gmail.com or sschiedermay@wisc.edu
